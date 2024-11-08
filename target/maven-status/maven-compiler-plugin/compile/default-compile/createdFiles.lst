@@ -1,0 +1,7 @@
+com\mycompany\test\AppleMusicService.class
+com\mycompany\test\MusicFacade.class
+com\mycompany\test\SpotifyAdapter.class
+com\mycompany\test\SpotifyService.class
+com\mycompany\test\AppleMusicAdapter.class
+com\mycompany\test\Main.class
+com\mycompany\test\IMediaPlayer.class
